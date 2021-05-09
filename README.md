@@ -1,4 +1,6 @@
-![Damián Aguilar](https://raw.githubusercontent.com/daguilarm/daguilarm/master/img/damian-aguilar.png)
+<div style="margin-left: auto; margin-right: auto;">
+    ![Damián Aguilar](https://raw.githubusercontent.com/daguilarm/daguilarm/master/img/damian-aguilar.mp4)
+</div>
 
 I'm Damián Aguilar, Fullstack developer from Murcia (Spain). I have been working on developing **PHP** projects for the last fifteen years, and for the last five years I have been **working as a researcher** at the [Universidad Miguel Hernández](https://umh.es) developing projects for agriculture based on **Laravel** and **Vuejs**.
 
