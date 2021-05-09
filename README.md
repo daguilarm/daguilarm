@@ -4,6 +4,8 @@
     </a>
 </div>
 
+<br>
+
 <p>
     I'm <strong>Damián Aguilar</strong>, Fullstack developer from Murcia (Spain). I have been working on developing **PHP** projects for the last fifteen years, and for the last five years I have been <strong>working as a researcher</strong> at the [Universidad Miguel Hernández](https://umh.es) developing projects for agriculture based on <strong>Laravel</strong> and <strong>Vuejs</strong>. 
 </p>
