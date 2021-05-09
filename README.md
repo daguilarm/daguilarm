@@ -9,7 +9,9 @@
 <p>
     I'm <strong>Damián Aguilar</strong>, Fullstack developer from Murcia (Spain). I have been working on developing **PHP** projects for the last fifteen years, and for the last five years I have been <strong>working as a researcher</strong> at the <a href="https://umh.es" target="_blank">Universidad Miguel Hernández</a> developing projects for agriculture based on <strong>Laravel</strong> and <strong>Vuejs</strong>. Part of the research can be consulted in the following paper: 
 
-    - <a href="https://www.mdpi.com/2073-4395/10/9/1352" target="_blank">https://www.mdpi.com/2073-4395/10/9/1352</a>
+    <li>
+        <a href="https://www.mdpi.com/2073-4395/10/9/1352" target="_blank">https://www.mdpi.com/2073-4395/10/9/1352</a>
+    </li>
 </p>
 
 <p>
