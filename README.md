@@ -18,7 +18,7 @@ Please, do not hesitate to contact if you want us to work together on a project.
 + Tailwind 
 + Git
 
-## 📫 Reach me on
+## Reach me on
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/damian-antonio-aguilar-morales-190606207/)
 
