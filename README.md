@@ -1,6 +1,6 @@
 <div style="margin-left: auto; margin-right: auto; width: 100%">
     <a href="http://daguilar.dev">
-        <img src="https://raw.githubusercontent.com/daguilarm/daguilarm/master/img/damian-aguilar.png" alt="Damián Aguilar">
+        <img src="https://raw.githubusercontent.com/daguilarm/daguilarm/master/img/header.png" alt="Damián Aguilar">
     </a>
 </div>
 
