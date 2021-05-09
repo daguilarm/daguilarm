@@ -1,5 +1,5 @@
 <div style="margin-left: auto; margin-right: auto; width: 100%">
-    ![Damián Aguilar](https://raw.githubusercontent.com/daguilarm/daguilarm/master/img/damian-aguilar.png)
+    <img src="https://raw.githubusercontent.com/daguilarm/daguilarm/master/img/damian-aguilar.png" alt="Damián Aguilar">
 </div>
 
 
