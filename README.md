@@ -4,29 +4,34 @@
     </a>
 </div>
 
-#### I'm Damián Aguilar, Fullstack developer from Murcia (Spain). I have been working on developing **PHP** projects for the last fifteen years, and for the last five years I have been **working as a researcher** at the [Universidad Miguel Hernández](https://umh.es) developing projects for agriculture based on **Laravel** and **Vuejs**.
+<p>
+    I'm <strong>Damián Aguilar</strong>, Fullstack developer from Murcia (Spain). I have been working on developing **PHP** projects for the last fifteen years, and for the last five years I have been <strong>working as a researcher</strong> at the [Universidad Miguel Hernández](https://umh.es) developing projects for agriculture based on <strong>Laravel</strong> and <strong>Vuejs</strong>. 
+</p>
+
+<p>
+    Currently I'm working as a freelance on projects based on <strong>Laravel</strong>, <strong>AlpineJS</strong>, <strong>Livewire</strong> and <strong>TailwindCSS</strong>.
+</p>
+
+<p>
+    Please, do not hesitate to contact if you want us to work together on a project.
+</p>
 
 
-Currently I'm working as a freelance on projects based on **Laravel**, **AlpineJS**, **Livewire** and **TailwindCSS**.
+<h2>I work daily with this technologies</h2>
 
+<ul>
+    <li>HTML5</li>
+    <li>CSS3</li>
+    <li>JavaScript</li>
+    <li>AlpineJS</li>
+    <li>VueJS</li>
+    <li>PHP</li>
+    <li>Laravel</li>
+    <li>Tailwind</li>
+    <li>Git</li>
+</ul>
 
-Please, do not hesitate to contact if you want us to work together on a project.
-
-
-## I work daily with this technologies
-
-+ HTML5
-+ CSS3
-+ JavaScript
-+ AlpineJS
-+ VueJS 
-+ PHP 
-+ Laravel 
-+ Tailwind 
-+ Git
-
-
-## Reach me on
+<h2>Reach me on</h2>
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/damian-antonio-aguilar-morales-190606207/)
 
