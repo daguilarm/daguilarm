@@ -14,6 +14,8 @@
     <a href="https://www.mdpi.com/2073-4395/10/9/1352" target="_blank">https://www.mdpi.com/2073-4395/10/9/1352</a>
 </li>
 
+<br>
+
 <p>
     Currently I'm working as a freelance on projects based on <strong>Laravel</strong>, <strong>AlpineJS</strong>, <strong>Livewire</strong> and <strong>TailwindCSS</strong>.
 </p>
