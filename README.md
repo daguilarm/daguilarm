@@ -7,7 +7,7 @@
 <br>
 
 <p>
-    I'm <strong>Damián Aguilar</strong>, Fullstack developer from Murcia (Spain). I have been working on developing **PHP** projects for the last fifteen years, and for the last five years I have been <strong>working as a researcher</strong> at the <a href="https://umh.es" target="_blank">Universidad Miguel Hernández</a> developing projects for agriculture based on <strong>Laravel</strong> and <strong>Vuejs</strong>. Part of the research can be consulted in the following paper: 
+    I'm <strong>Damián Aguilar</strong>, Fullstack developer from Murcia (Spain). I have been working on developing <strong>PHP</strong> projects for the last fifteen years, and for the last five years I have been <strong>working as a researcher</strong> at the <a href="https://umh.es" target="_blank">Universidad Miguel Hernández</a> developing projects for agriculture based on <strong>Laravel</strong> and <strong>Vuejs</strong>. Part of the research can be consulted in the following paper: 
 </p>
 
 <li>
@@ -20,12 +20,28 @@
     Currently I'm working as a freelance on projects based on <strong>Laravel</strong>, <strong>AlpineJS</strong>, <strong>Livewire</strong> and <strong>TailwindCSS</strong>.
 </p>
 
+<br> 
+
+<h2>A few personal projects to see my work</h2>
+<ul> 
+    <li>
+        <div><a href="https://empleatis.com" target="_blank">Empleatis.com</a></div>
+        <ul>
+            <li>A metasearch engine working with <strong>Laravel</strong>, <strong>Livewire</strong> and <strong>Alpinejs</strong>.</li>
+            <li>Using the third party API to obtain data from job offers.</li>
+            <li>Implementing queue jobs to optimize thousands of requests.</li>
+        </ul>
+    </li>
+</ul>
+
+<br> 
+
 <p>
     Please, do not hesitate to contact if you want us to work together on a project.
 </p>
 
 
-<h2>I work daily with this technologies</h2>
+<h3>I work daily with this technologies</h3>
 
 <ul>
     <li>HTML5</li>
