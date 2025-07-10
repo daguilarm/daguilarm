@@ -22,20 +22,6 @@
 
 <br> 
 
-<h2>A few personal projects to see my work</h2>
-<ul> 
-    <li>
-        <div><a href="https://empleatis.com" target="_blank">Empleatis.com</a></div>
-        <ul>
-            <li>A metasearch engine working with <strong>Laravel</strong>, <strong>Livewire</strong> and <strong>Alpinejs</strong>.</li>
-            <li>Using the third party API to obtain data from job offers.</li>
-            <li>Implementing queue jobs to optimize thousands of requests.</li>
-        </ul>
-    </li>
-</ul>
-
-<br> 
-
 <p>
     Please, do not hesitate to contact if you want us to work together on a project.
 </p>
